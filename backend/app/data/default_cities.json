@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Delhi",
+    "country": "India",
+    "latitude": 28.6139,
+    "longitude": 77.2090,
+    "admin1": "Delhi",
+    "typical_winter_aqi": 340,
+    "notes": "Severe winter temperature inversion and crop residue burning hotspot"
+  },
+  {
+    "name": "Lahore",
+    "country": "Pakistan",
+    "latitude": 31.5497,
+    "longitude": 74.3436,
+    "admin1": "Punjab",
+    "typical_winter_aqi": 375,
+    "notes": "Intense winter smog valley phenomenon"
+  },
+  {
+    "name": "Beijing",
+    "country": "China",
+    "latitude": 39.9042,
+    "longitude": 116.4074,
+    "admin1": "Beijing",
+    "typical_winter_aqi": 140,
+    "notes": "Historic smog basin with aggressive air clean-up initiatives"
+  },
+  {
+    "name": "Dhaka",
+    "country": "Bangladesh",
+    "latitude": 23.8103,
+    "longitude": 90.4125,
+    "admin1": "Dhaka",
+    "typical_winter_aqi": 290,
+    "notes": "High brick kiln and vehicular winter particulate loading"
+  },
+  {
+    "name": "Mumbai",
+    "country": "India",
+    "latitude": 19.0760,
+    "longitude": 72.8777,
+    "admin1": "Maharashtra",
+    "typical_winter_aqi": 165,
+    "notes": "Coastal inversion with high construction particulate dust"
+  },
+  {
+    "name": "London",
+    "country": "United Kingdom",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "admin1": "England",
+    "typical_winter_aqi": 45,
+    "notes": "Urban Low Emission Zone with occasional winter particulate spikes"
+  },
+  {
+    "name": "New York",
+    "country": "United States",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "admin1": "New York",
+    "typical_winter_aqi": 42,
+    "notes": "Metropolitan air basin with seasonal heating particulate surges"
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "admin1": "Île-de-France",
+    "typical_winter_aqi": 48,
+    "notes": "Continental anticyclonic winter inversion episodes"
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.6762,
+    "longitude": 139.6503,
+    "admin1": "Tokyo",
+    "typical_winter_aqi": 38,
+    "notes": "Clean air metropolis with strict emission guidelines"
+  },
+  {
+    "name": "Cairo",
+    "country": "Egypt",
+    "latitude": 30.0444,
+    "longitude": 31.2357,
+    "admin1": "Cairo",
+    "typical_winter_aqi": 195,
+    "notes": "Black cloud season with desert dust and thermal stagnation"
+  }
+]
